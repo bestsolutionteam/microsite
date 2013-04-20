@@ -33,6 +33,9 @@ a.pull-right{
     margin-top: 12px;
 }
 
+body {
+	padding-bottom: 0px !important;
+}
 
 .subcaption p{
     line-height: 30px;
